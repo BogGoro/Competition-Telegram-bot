@@ -1,2 +1,2 @@
-# My-Projects
-The collection of projects I have been working on
+# Hello!
+Here is he collection of projects I have been working on
