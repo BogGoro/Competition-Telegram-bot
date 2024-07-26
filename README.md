@@ -1,2 +1,1 @@
-# Hello!
-Here is he collection of projects I have been working on
+<h1>Here is Telegram bot for the competition during the face-to-face meeting</h1>
